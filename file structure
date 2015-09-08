@@ -1,0 +1,12 @@
+file structure
+
+app.js
+server
+	...
+client
+	public
+		script.js
+		style.css
+		templates.html
+		assets
+		views
