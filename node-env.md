@@ -24,6 +24,13 @@
 - [NodeSchool](http://nodeschool.io) Seems to have beginning to end Node resources
 - [Node.js API](https://nodejs.org/api/) The standard library / API that comes with Node
 - [WebComponents](http://webcomponents.org/resources/) Lots of resources, just clicking around that site is useful.
+  - [Imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
+  - [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+  - [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+  - [Introduction to HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/)
+  - [Introduction to the Template Elements](http://webcomponents.org/articles/introduction-to-template-element/)
+  - [Introduction to Shadow DOM](http://webcomponents.org/articles/introduction-to-shadow-dom/)
+  - [Introduction to Custom Elements](http://webcomponents.org/articles/introduction-to-custom-elements/)
 - [Introduction to npm](http://smalljs.org/package-managers/npm/)
 - [Jasmine Docs](http://jasmine.github.io/2.3/introduction.html)
 - On Testing
